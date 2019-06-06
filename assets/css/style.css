@@ -1,0 +1,18 @@
+html {
+
+}
+
+body {
+    background-image: url("../images/background.png");
+}
+
+.container {
+    text-align: center; 
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 25px;
+}
+
+.jumbotron {
+    margin-top: 15%; 
+    padding: 5%;
+}
